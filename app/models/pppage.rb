@@ -1,2 +1,0 @@
-class Pppage < ApplicationRecord
-end
